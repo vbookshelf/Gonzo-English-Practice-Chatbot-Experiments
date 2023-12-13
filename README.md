@@ -7,6 +7,7 @@ My experiments with Gonzo, a ChatGPT powered chatbot web app that helps people l
 - The idea is to create a chat roleplay scenario to make the experience more engaging for the user. For example, to help Thai people practice english the chatbot emulates an alien from Mars on holiday in Thailand.
 - The chatbot responds both in English and in the user's first language.
 - If the user has made any spelling or grammar errors in their message, the chatbot also outputs a corrected version of the user's message.
+- The app is built in Javascript. It can be run from the desktop. There's no need to upload the files to a web server. Simply download the files, add your OpenAi API key, and then double click the index.html file. The app will open in your browser.
 
 ## Experiments
 - Exp_1 - First working version<br>
