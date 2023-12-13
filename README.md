@@ -3,6 +3,10 @@ My experiments with Gonzo, a ChatGPT powered chatbot web app that helps people l
 The experiments are still in progress...
 
 <br>
+<img src="https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/blob/main/images/gonzo1.png" width="250"></img>
+<i>Gonzo</i><br>
+
+<br>
 
 ## How it works
 - The idea is to create a chat roleplay scenario to make the experience more engaging for the user. For example, to help Thai people practice english the chatbot emulates an alien from Mars on holiday in Thailand.
