@@ -26,6 +26,9 @@ https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/mai
 - Exp_3 - Add json output and few shot learning<br>
 https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_3-Add-json-output-and-few-shot-learning
 
+- Exp_4 - Formatted the displayed output<br>
+https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_4-Formatted-the-displayed-output
+
 <br>
 
 ## Resources
