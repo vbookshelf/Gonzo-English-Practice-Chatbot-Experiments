@@ -29,6 +29,9 @@ https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/mai
 - Exp_4 - Formatted the displayed output<br>
 https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_4-Formatted-the-displayed-output
 
+- Exp_5 - Added examples of bad output to the system message<br>
+https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_5-Added-examples-of-bad-output-to-system-message
+
 <br>
 
 ## Resources
