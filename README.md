@@ -32,6 +32,9 @@ https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/mai
 - Exp_5 - Added examples of bad output to the system message<br>
 https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_5-Added-examples-of-bad-output-to-system-message
 
+- Exp_6 - London roleplay scenario<br>
+https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_6-London-roleplay-scenario
+
 <br>
 
 ## Resources
