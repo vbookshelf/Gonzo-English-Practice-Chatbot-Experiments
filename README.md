@@ -35,6 +35,9 @@ https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/mai
 - Exp_6 - London roleplay scenario<br>
 https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_6-London-roleplay-scenario
 
+- Exp_7 - Phoebe emulator chatbot<br>
+https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_7-Phoebe-emulator
+
 <br>
 
 ## Resources
