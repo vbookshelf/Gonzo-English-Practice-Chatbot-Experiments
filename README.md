@@ -41,6 +41,9 @@ https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/mai
 - Exp_8 - Bland personality Phoebe emulator chatbot<br>
 https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_8-Bland-personality-Phoebe-emulator
 
+- Exp_9 - Adding second api call to maintain interesting personality<br>
+https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_9-Adding-second-api-call-to-maintain-interesting-personality
+
 <br>
 
 ## Resources
