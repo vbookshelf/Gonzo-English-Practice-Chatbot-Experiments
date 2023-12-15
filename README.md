@@ -38,6 +38,9 @@ https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/mai
 - Exp_7 - Phoebe emulator chatbot<br>
 https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_7-Phoebe-emulator
 
+- Exp_8 - Bland personality Phoebe emulator chatbot<br>
+https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_8-Bland-personality-Phoebe-emulator
+
 <br>
 
 ## Resources
