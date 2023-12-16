@@ -47,6 +47,9 @@ https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/mai
 - Exp_10 - Shortened Phoebe responses<br>
 https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_10-Shortened-Phoebe-responses
 
+- Exp_11 - Cleaned up the Phoebe chatbot code<br>
+https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_11-Cleaned-up-the-Phoebe-chatbot-code
+
 <br>
 
 ## Resources
