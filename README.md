@@ -44,6 +44,9 @@ https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/mai
 - Exp_9 - Adding second api call to maintain interesting personality<br>
 https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_9-Adding-second-api-call-to-maintain-interesting-personality
 
+- Exp_10 - Shortened Phoebe responses<br>
+https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_10-Shortened-Phoebe-responses
+
 <br>
 
 ## Resources
