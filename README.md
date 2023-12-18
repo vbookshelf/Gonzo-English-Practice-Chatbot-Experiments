@@ -50,6 +50,9 @@ https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/mai
 - Exp_11 - Cleaned up the Phoebe chatbot code<br>
 https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_11-Cleaned-up-the-Phoebe-chatbot-code
 
+- Exp_12 - Added first language selector<br>
+https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_11-Added-first-language-selector
+
 <br>
 
 ## Resources
