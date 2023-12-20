@@ -53,6 +53,9 @@ https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/mai
 - Exp_12 - Added first language selector<br>
 https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_11-Added-first-language-selector
 
+- Exp_13 - Improved JS code<br>
+https://github.com/vbookshelf/Gonzo-English-Teacher-Chatbot-Experiments/tree/main/Exp_13-Improved-js-code
+
 <br>
 
 ## Resources
