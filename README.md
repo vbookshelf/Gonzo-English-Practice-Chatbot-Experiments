@@ -1,5 +1,5 @@
 # Gonzo English Practice Chatbot Experiments
-My experiments with Gonzo, a ChatGPT powered chatbot web app that helps people learn english through conversation.<br>
+My experiments with Gonzo, a ChatGPT powered chatbot web app that helps people practice english through conversation.<br>
 The experiments are still in progress...
 
 <br>
